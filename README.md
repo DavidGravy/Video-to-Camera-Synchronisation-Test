@@ -35,7 +35,7 @@ Below are two good examples of clean frames. There is artefacting from the lens 
 ![BadBlackWhiteCloser](https://github.com/user-attachments/assets/63f2a740-1df2-45f6-843f-4838f562348e)
 
 ## Line Tests
-The line test is useful as it can present itself more obviously to the human eye on the camera monitor or viewfinder. The tests present a single moving horizontally moving line, then multiple lines, then repeats vertically. 
+The line test is useful as it can present itself more obviously to the human eye on the camera monitor or viewfinder. The tests present a single horizontally moving line, then multiple lines, then repeats vertically. 
 
 ### Good Line Frame Examples
 In the below you can see the lines presenting as one solid line with no tearing or ghosting. 

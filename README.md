@@ -4,7 +4,7 @@ This is a set of simple video test patterns for testing the synchronisation of a
 
 # The Methodology
 
-The file contains two basic tests for validating synchronisation. A strobe test and a moving lines test. The video clip should be played back from a media server of your choice within a genlocked enviroment. You should record the video clip been presented on the video wall with your camera. Playback the videoclip to review whether the syncrhonisation is good or bad. 
+The file contains two basic tests for validating synchronisation. A strobe test and a moving lines test. The video clip should be played back from a media server of your choice within a genlocked enviroment. You should record the video clip been presented on the video wall with your camera. Playback the recording to review whether the syncrhonisation is good or bad. 
 
 If you are using multiple LED processors to drive the wall ideally you would test all seams to ensure continuity. However this test is primarily for camera to video testing.
 

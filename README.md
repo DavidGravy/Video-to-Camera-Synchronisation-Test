@@ -4,7 +4,7 @@ This is a set of simple video test patterns for testing the synchronisation of a
 
 # The Methodology
 
-The file contains two basic tests for testing synchronisation. A strobe test and a moving lines test. The video clip should be played back from a media server of your choice within a genlocked enviroment. You should record the video clip been presented on the video wall with your camera. Playback the videoclip to review whether the syncrhonisation is good or bad. 
+The file contains two basic tests for validating synchronisation. A strobe test and a moving lines test. The video clip should be played back from a media server of your choice within a genlocked enviroment. You should record the video clip been presented on the video wall with your camera. Playback the videoclip to review whether the syncrhonisation is good or bad. 
 
 If you are using multiple LED processors to drive the wall ideally you would test all seams to ensure continuity. However this test is primarily for camera to video testing.
 
@@ -12,7 +12,7 @@ If you are using multiple LED processors to drive the wall ideally you would tes
 
 The video features two strobe tests, first a black and white, second a cyan and magenta. These present sequentially in and on off fashoion. 
 
-To validate synchronisation playback the clip. If you are seeing whole frames of black, white, cyan, and magenta your sync is good. If you are seeing any bleeding of colours or gradients your sync is bad. 
+To validate synchronisation playback the recording. If you are seeing whole frames of black, white, cyan, and magenta your sync is good. If you are seeing any bleeding of colours or gradients your sync is bad. 
 
 ### Good Strobe Frame Examples
 Below are two good examples of clean frames. There is artefacting from the lens and the moiré but we are just looking at the colour consistency. 

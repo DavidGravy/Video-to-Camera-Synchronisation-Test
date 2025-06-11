@@ -59,7 +59,7 @@ In the below you can see the lines presenting as one solid line with no tearing 
 ![BadLineTest3](https://github.com/user-attachments/assets/f530c1e6-bd0a-45e9-80b0-b71753342bf7)
 
 ## Adjust Sync
-Use the tools on you camera or on your genlock geneator to offset the camera from the video system or vice versa. Record the test again and review results. Repeat until clean frames are presented. 
+Use the tools on your camera or on your genlock generator to offset the camera from the video system or vice versa. Record the test again and review results. Repeat until clean frames are presented. 
 
 # License
 
